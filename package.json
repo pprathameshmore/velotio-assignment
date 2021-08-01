@@ -1,0 +1,14 @@
+{
+  "name": "velotio-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "angle.js",
+  "scripts": {
+    "angle": "node angle.js",
+    "company": "node company.js",
+    "prime": "node prime.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
